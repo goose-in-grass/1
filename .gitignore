@@ -1,4 +1,5 @@
 *.jpg
+*.txt
 CMake1/*
-!CMake1/2.cpp
 !CMake1/CMakeLists.txt
+!CMake1/main.txt
